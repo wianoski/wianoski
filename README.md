@@ -9,15 +9,15 @@
 <p>
   
 <a href="https://github.com/wianoski">
-  <img src="https://img.shields.io/github/followers/seeden?style=social">
+  <img src="https://img.shields.io/github/">
 </a>
 
 <a href="https://www.linkedin.com/in/thirafi-wian/">
-    <img src="https://img.shields.io/badge/Linkedin-zlatkofedor-blue" alt="zlatkofedor">
+    <img src="https://img.shields.io/badge/Linkedin-thirafi-wian-blue" alt="thirafi-wian">
 </a>
 
 <a href="https://www.instagram.com/thirafi.wian">
-    <img src="https://img.shields.io/badge/Instagram-goodmoule-ff69b4" alt="GoodModule">
+    <img src="https://img.shields.io/badge/Instagram-thirafi.wian-ff69b4" alt="thirafi.wian">
 </a>
 
 </p>
