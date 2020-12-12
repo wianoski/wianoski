@@ -1,8 +1,9 @@
 ## About ME 💬 :
 
+
 ### - Embedded System Engineer, UAV Enthusiast and full-time weebs
 
-<img height="300" width="500" alt="GIF" align="right" src="https://media1.tenor.com/images/2533920f9729f6643fd1805536d393c8/tenor.gif">
+<img height="300" width="500" alt="GIF" align="right" src="https://media1.tenor.com/images/9f2d163be6f19ea2858e168711e23fe6/tenor.gif">
 
 ### - Learning :
 - ✨ RF for LPWAN
